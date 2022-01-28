@@ -1,10 +1,4 @@
-/*
-*  HomeActivity.kt
-*  Source
-*
-*  Created by ronnystudio.
-*  Copyright © 2018 ronnystudio. All rights reserved.
-*/
+
 
 package com.ronnystudio.loginvone.activity
 
